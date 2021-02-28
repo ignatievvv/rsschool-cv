@@ -38,3 +38,17 @@ Omsk State Technical University
 2017 - **Rocket Systems and Astronautics** (Master’s degree)
 
 Baltic State Technical University
+
+**English level:** Elementary (_A1_)
+
+**Sample of code:**
+
+```javascript
+function isPalindrome(line) {
+  if (typeof line === "number") {
+    return line.toString() === line.toString().split("").reverse().join("");
+  } else {
+    return line === line.split("").reverse().join("");
+  }
+}
+```
