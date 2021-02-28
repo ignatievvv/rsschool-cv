@@ -10,7 +10,7 @@
 
 **E-mail** vladimir-ignatiev@hotmail.com
 
-**GitHub** [github.com/ignatievvv](github.com/ignatievvv)
+**GitHub** [github.com/ignatievvv](https://github.com/ignatievvv)
 
 Beginner specialist in programming / IT-industry.
 
