@@ -1,5 +1,7 @@
 # [rsschool-cv](https://github.com/ignatievvv/rsschool-cv/cv)
 
+![avatar](https://cdn.rs.school/ignatievvv.png?size=192)
+
 # **Vladimir Ignatiev**
 
 ## Junior Frontend Developer
