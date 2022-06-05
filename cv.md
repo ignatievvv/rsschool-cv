@@ -4,6 +4,8 @@
 
 ## IT Specialist
 
+---
+
 **Country** Russian Federation
 
 **City** St. Petersburg
@@ -14,6 +16,8 @@
 
 **GitHub** [github.com/ignatievvv](https://github.com/ignatievvv)
 
+---
+
 Beginner specialist in programming / IT-industry.
 
 Ready for fast studying and learning new skills.
@@ -23,15 +27,21 @@ Extremely attentive to details.
 
 ### **Work Experience**
 
+---
+
 - N/A
 
 ### **Technical skills:**
+
+---
 
 - Java-Script
 
 * HTML/CSS
 
 ### **Education:**
+
+---
 
 2015 - **Rocket Systems and Astronautics** (Bachelor degree)
 
@@ -41,9 +51,15 @@ Omsk State Technical University
 
 Baltic State Technical University
 
-**English level:** Elementary (_A1_)
+### **English level:**
 
-**Sample of code:**
+---
+
+Elementary (_A1_)
+
+### **Sample of code:**
+
+---
 
 ```javascript
 function isPalindrome(line) {
