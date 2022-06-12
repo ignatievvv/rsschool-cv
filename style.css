@@ -1,1 +1,248 @@
+html {
+  scroll-behavior: smooth;
+  scroll-margin: 60px;
+}
 
+.wrapper {
+  position: relative;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 1000px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+body {
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  flex: 0 0 60px;
+  display: flex;
+  justify-content: end;
+  background-color: ghostwhite;
+}
+
+nav {
+  flex: 0 0 68%;
+  background-color: #2b435d;
+}
+
+.nav-list {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav-item {
+  flex-basis: 136px;
+  flex-grow: 0;
+}
+
+.nav-link {
+  display: block;
+  height: 100%;
+  text-align: center;
+  padding-top: 18px;
+  transition: .1s;
+}
+
+.nav-link:hover {
+  background-color: ghostwhite;
+  color: black;
+}
+
+.content {
+  position: fixed;
+  top: 0px;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  margin-block: 30px;
+  border: ghostwhite solid 3px;
+  border-radius: 10px
+}
+
+img {
+  filter: brightness(110%);
+}
+
+.avatar-wrapper {
+  display: flex;
+  justify-content: center;
+  background-color: #2b435d;
+}
+
+.name-section {
+  display: flex;
+  flex-basis: 216px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  background-color: ghostwhite;
+}
+
+h2 {
+  flex: 1 0 content;
+  color: #2b435d;
+  font-family: Helvetica;
+  letter-spacing: 2px;
+  margin: 0 0 0 20px;
+  padding-top: 20px;
+}
+
+h1 {
+  flex: 0 0 content;
+  font-family: Helvetica;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  font-size: 40px;
+  margin: 0 0 0 20px;
+  border-right: 60px solid #2b435d;
+}
+
+.header-empty-block {
+  flex: 1 0 48px;
+  margin: 0 0 0 20px;
+}
+
+.inf-wrapper {
+  display: flex;
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  width: 32%;
+  justify-content: flex-start;
+  background-color: #2b435d;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.contacts-list {
+  padding: 0;
+  list-style: none;
+}
+
+.contacts {
+  margin: 8px 12px 8px 12px;
+  word-break: break-word;
+}
+
+span {
+  color: tomato;
+  background-color: aliceblue;
+  background-origin: border-box;
+  padding: 0 5px 0 5px;
+  border-left: tomato 3px solid;
+}
+
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.about-heading {
+  margin: 50px 0 8px 16px;
+  letter-spacing: 2px;
+  font-size: 150%;
+  border-right: 18px solid tomato;
+}
+
+.about {
+  margin: 8px 12px 8px 12px;
+  font-weight: normal;
+  line-height: 150%;
+}
+
+.sections-wrapper {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.experience-section {
+  flex-grow: 1;
+  padding: 0 30px 0 30px;
+  background-color: ghostwhite;
+}
+
+h3 {
+  flex: 0 0 160px;
+  width: 170px;
+  color: tomato;
+  background-color: white;
+  background-origin: border-box;
+  padding: 5px 5px 5px 10px;
+  border-left: tomato 3px solid;
+}
+
+.skill-item:nth-child(n+1),
+.project-item:nth-child(n+1) {
+  margin-top: 16px;
+}
+
+.project-link {
+  color: black;
+}
+
+.code-wrapper {
+  padding-left: 20px;
+  background-color: ghostwhite;
+}
+
+pre {
+  font-family: Consolas, "Courier New", monospace;
+}
+
+.hljs-keyword {
+  color: mediumorchid;
+  padding: 0;
+  border: none;
+}
+
+.hljs-function,
+.hljs-title,
+.hljs-params {
+  padding: 0;
+  border: none;
+}
+
+.hljs-string {
+  color: seagreen;
+  padding: 0;
+  border: none;
+}
+
+footer {
+  display: flex;
+  background-color: white;
+}
+
+.logo {
+  height: 50px;
+  margin: 50px;
+  padding: 5px;
+  border: 3px solid #2b435d;
+  border-radius: 10px;
+}
+
+.year-wrapper {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+}
+
+.year {
+  font-size: 25px;
+  color: #2b435d;
+}
