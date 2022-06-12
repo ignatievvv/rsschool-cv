@@ -9,6 +9,7 @@
 body {
   display: flex;
   justify-content: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .content {
@@ -29,14 +30,14 @@ img {
 }
 
 .avatar-wrapper {
-  flex: 1 0 300px;
+  flex: 1 0 320px;
   display: flex;
   justify-content: center;
   background-color: #2b435d;
 }
 
 .header {
-  flex: 1 1 700px;
+  flex: 1 1 680px;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
@@ -74,11 +75,10 @@ h1 {
 aside {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 32%;
   justify-content: flex-start;
   background-color: #2b435d;
   color: aliceblue;
-  font-family: calibri;
   font-weight: bold;
 }
 
@@ -104,8 +104,6 @@ a {
   margin: 50px 0 8px 16px;
   letter-spacing: 2px;
   font-size: 150%;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: lighter;
   border-right: 18px solid tomato;
 }
 
@@ -119,29 +117,22 @@ section {
   flex-grow: 1;
   padding: 0 30px 0 30px;
   background-color: ghostwhite;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
   flex: 0 0 160px;
-  width: 160px;
+  width: 170px;
   color: tomato;
   background-color: white;
   background-origin: border-box;
   padding: 5px 5px 5px 10px;
   border-left: tomato 3px solid;
-  font-family: calibri;
-}
-
-li {
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .code-wrapper {
   flex-basis: 100%;
   padding-left: 20px;
   background-color: ghostwhite;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 pre {
@@ -188,7 +179,6 @@ footer {
 }
 
 .year {
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   color: #2b435d;
 }
