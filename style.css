@@ -82,6 +82,11 @@ aside {
   font-weight: bold;
 }
 
+.contacts-list {
+  padding: 0;
+  list-style: none;
+}
+
 .contacts {
   margin: 8px 12px 8px 12px;
   word-break: break-word;
