@@ -1,15 +1,62 @@
+html {
+  scroll-behavior: smooth;
+  scroll-margin: 60px;
+}
+
 .wrapper {
+  position: relative;
   overflow-x: hidden;
   display: flex;
+  flex-direction: column;
   flex-basis: 1000px;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
 
 body {
+  margin-top: 0;
   display: flex;
   justify-content: center;
   font-family: 'Roboto', sans-serif;
+}
+
+header {
+  flex: 0 0 60px;
+  display: flex;
+  justify-content: end;
+  background-color: ghostwhite;
+}
+
+nav {
+  flex: 0 0 68%;
+  background-color: #2b435d;
+}
+
+.nav-list {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav-item {
+  flex-basis: 136px;
+  flex-grow: 0;
+}
+
+.nav-link {
+  display: block;
+  height: 100%;
+  text-align: center;
+  padding-top: 18px;
+  transition: .1s;
+}
+
+.nav-link:hover {
+  background-color: ghostwhite;
+  color: black;
 }
 
 .content {
@@ -30,15 +77,14 @@ img {
 }
 
 .avatar-wrapper {
-  flex: 1 0 320px;
   display: flex;
   justify-content: center;
   background-color: #2b435d;
 }
 
-.header {
-  flex: 1 1 680px;
+.name-section {
   display: flex;
+  flex-basis: 216px;
   flex-direction: column;
   flex-wrap: nowrap;
   background-color: ghostwhite;
@@ -118,7 +164,13 @@ a {
   line-height: 150%;
 }
 
-section {
+.sections-wrapper {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.experience-section {
   flex-grow: 1;
   padding: 0 30px 0 30px;
   background-color: ghostwhite;
@@ -134,12 +186,16 @@ h3 {
   border-left: tomato 3px solid;
 }
 
-li:nth-child(n+1) {
+.skill-item:nth-child(n+1),
+.project-item:nth-child(n+1) {
   margin-top: 16px;
 }
 
+.project-link {
+  color: black;
+}
+
 .code-wrapper {
-  flex-basis: 100%;
   padding-left: 20px;
   background-color: ghostwhite;
 }
@@ -169,7 +225,6 @@ pre {
 
 footer {
   display: flex;
-  flex: 1 1 100%;
   background-color: white;
 }
 

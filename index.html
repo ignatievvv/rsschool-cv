@@ -10,17 +10,23 @@
   </head>
   <body>
     <div class="wrapper">
-      <div class="avatar-wrapper">
-        <img src="avatar.jpeg" alt="Avatar" class="avatar" />
-      </div>
-      <header class="header">
-        <h2>Junior Frontend Developer</h2>
-        <h1>VLADIMIR<br />IGNATIEV</h1>
-        <p class="header-empty-block"></p>
+      <header>
+        <nav>
+          <ul class="nav-list">
+            <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
+            <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
+            <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+            <li class="nav-item"><a class="nav-link" href="#about">About me</a></li>
+            <li class="nav-item"><a class="nav-link" href="#contacts">Contacts</a></li>
+          </ul>
+        </nav>
       </header>
       <main class="inf-wrapper">
         <aside>
-          <ul class="contacts-list">
+          <div class="avatar-wrapper">
+            <img src="avatar.jpeg" alt="Avatar" class="avatar" />
+          </div>
+          <ul class="contacts-list" id="contacts">
             <li class="contacts"><span>Country:</span> Russian Federation</li>
             <li class="contacts"><span>City:</span> St.&nbsp;Petersburg</li>
             <li class="contacts"><span>Phone:</span> +7 999 536 14<wbr />17</li>
@@ -38,42 +44,57 @@
               >
             </li>
           </ul>
-            <p class="about-heading">ABOUT ME</p>
+            <p class="about-heading" id="about">ABOUT ME</p>
             <p class="about">
               Beginner specialist in programming / IT-industry. Ready for fast
               studying and learning new skills. Solving tasks creatively. Finding
               non-standart solutions. Extremely attentive to details.
             </p>
         </aside>
-        <section>
-          <h3 id="experience">WORK EXPERIENCE</h3>
-          <ul>
-            <li>Roscosmos (2016 - now) - Design Engineer</li>
-          </ul>
-          <h3 id="skills">TECHNICAL SKILLS</h3>
-          <ul>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-            <li>HTML/CSS</li>
-            <li>VS Code</li>
-            <li>Git</li>
-            <li>Github</li>
-            <li>Webpack</li>
-            <li>Figma</li>
-            <li>React (basics)</li>
-            <li>Sony Vegas, Adobe Audition</li>
-            <li>Mathlab, Mathcad</li>
-            <li>Kompas 3D, SolidWorks</li>
-          </ul>
-          <h3 id="education">EDUCATION</h3>
-          <p>2015 - Rocket Systems and Astronautics (Bachelor&nbsp;degree)</p>
-          <p>Omsk State Technical University</p>
-          <p>2017 - Rocket Systems and Astronautics (Master’s&nbsp;degree)</p>
-          <p>Baltic State Technical University</p>
-          <p>2021 - JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)</p>
-          <p>The Rolling Scopes School</p>
-          <p>English level: Pre-Intermediate (<em>А2/В1</em>)</p>
-        </section>
+        <div class="sections-wrapper">
+          <section class="name-section">
+            <h2>Junior Frontend Developer</h2>
+            <h1>VLADIMIR<br />IGNATIEV</h1>
+            <p class="header-empty-block"></p>
+          </section>
+          <section class="experience-section">
+            <h3 id="experience">WORK EXPERIENCE</h3>
+            <ul>
+              <li>Roscosmos (2016 - now) - Design Engineer</li>
+            </ul>
+            <h3 id="skills">TECHNICAL SKILLS</h3>
+            <ul>
+              <li class="skill-item">JavaScript</li>
+              <li class="skill-item">TypeScript</li>
+              <li class="skill-item">HTML/CSS</li>
+              <li class="skill-item">VS Code</li>
+              <li class="skill-item">Git</li>
+              <li class="skill-item">Github</li>
+              <li class="skill-item">Webpack</li>
+              <li class="skill-item">Figma</li>
+              <li class="skill-item">React (basics)</li>
+              <li class="skill-item">Sony Vegas, Adobe Audition</li>
+              <li class="skill-item">Mathlab, Mathcad</li>
+              <li class="skill-item">Kompas 3D, SolidWorks</li>
+            </ul>
+            <h3 id="education">EDUCATION</h3>
+            <p>2015 - Rocket Systems and Astronautics (Bachelor&nbsp;degree)</p>
+            <p>Omsk State Technical University</p>
+            <p>2017 - Rocket Systems and Astronautics (Master’s&nbsp;degree)</p>
+            <p>Baltic State Technical University</p>
+            <p>2021 - JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)</p>
+            <p>The Rolling Scopes School</p>
+            <p>English level: Pre-Intermediate (<em>А2/В1</em>)</p>
+            <h3>PROJECTS</h3>
+            <ul>
+              <li class="project-item"><a class="project-link" href="https://rolling-scopes-school.github.io/ignatievvv-JSFE2021Q1/wildlife/">WILDLIFE</a></li>
+              <li class="project-item"><a class="project-link" href="https://rolling-scopes-school.github.io/ignatievvv-JSFE2021Q1/virtual-piano">Virtual Piano</a></li>
+              <li class="skill-item"><a class="project-link" href="https://rolling-scopes-school.github.io/ignatievvv-JSFE2021Q1/photo-filter/">Photo Filter</a></li>
+              <li class="skill-item"><a class="project-link" href="https://rolling-scopes-school.github.io/ignatievvv-JSFE2021Q1/online-zoo/pages/landing/index.html">Online Zoo</a></li>
+              <li class="skill-item"><a class="project-link" href="https://rolling-scopes-school.github.io/ignatievvv-JSFE2021Q1/english-for-kids/">English for Kids</a></li>
+            </ul>
+          </section>
+        </div>
       </main>
       <div class="code-wrapper">
         <p>Sample of code:</p>
