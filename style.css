@@ -129,6 +129,10 @@ h3 {
   border-left: tomato 3px solid;
 }
 
+li:nth-child(n+1) {
+  margin-top: 16px;
+}
+
 .code-wrapper {
   flex-basis: 100%;
   padding-left: 20px;
