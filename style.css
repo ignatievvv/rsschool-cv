@@ -1,4 +1,4 @@
-.block {
+.wrapper {
   overflow-x: hidden;
   display: flex;
   flex-basis: 1000px;
@@ -9,6 +9,8 @@
 body {
   display: flex;
   justify-content: center;
+  font-size: 18
+  px;
 }
 
 .content {
@@ -28,7 +30,7 @@ img {
   filter: brightness(110%);
 }
 
-.avatarbackground {
+.avatar-wrapper {
   flex: 1 0 300px;
   display: flex;
   justify-content: center;
@@ -62,12 +64,12 @@ h1 {
   border-right: 60px solid #2b435d;
 }
 
-.headerEmpty {
+.header-empty-block {
   flex: 1 0 48px;
   margin: 0 0 0 20px;
 }
 
-.commonInf {
+.inf-wrapper {
   display: flex;
 }
 
@@ -100,7 +102,7 @@ a {
   text-decoration: none;
 }
 
-.headeraboutme {
+.about-heading {
   margin: 50px 0 8px 16px;
   letter-spacing: 2px;
   font-size: 150%;
@@ -109,7 +111,7 @@ a {
   border-right: 18px solid tomato;
 }
 
-.aboutme {
+.about {
   margin: 8px 12px 8px 12px;
   font-weight: normal;
   line-height: 150%;
@@ -137,7 +139,7 @@ li {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.code {
+.code-wrapper {
   flex-basis: 100%;
   padding-left: 20px;
   background-color: ghostwhite;
@@ -173,7 +175,7 @@ footer {
   background-color: white;
 }
 
-.courseavatar {
+.logo {
   height: 50px;
   margin: 50px;
   padding: 5px;
@@ -181,13 +183,13 @@ footer {
   border-radius: 10px;
 }
 
-.year {
+.year-wrapper {
   display: flex;
   flex: 1 1 auto;
   align-items: center;
 }
 
-.paryear {
+.year {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   color: #2b435d;
