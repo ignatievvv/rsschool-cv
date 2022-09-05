@@ -8,17 +8,12 @@
 
 ---
 
-**Country:** Russian Federation
-
-**City:** St. Petersburg
-
-**Phone:** +7 999 536 1417
-
-**Telegram:** @ram_entreya
-
-**E-mail:** vladimir-ignatiev@hotmail.com
-
-**GitHub:** [ignatievvv](https://github.com/ignatievvv)
+- **Country:** Russian Federation
+- **City:** St. Petersburg
+- **Phone:** +7 999 536 1417
+- **Telegram:** @ram_entreya
+- **E-mail:** vladimir-ignatiev@hotmail.com
+- **GitHub:** [ignatievvv](https://github.com/ignatievvv)
 
 ---
 
@@ -50,17 +45,17 @@ Extremely attentive to details.
 
 ---
 
-2015 - **Rocket Systems and Astronautics** (Bachelor degree)
+- 2015 - **Rocket Systems and Astronautics** (Bachelor degree)
 
-Omsk State Technical University
+  Omsk State Technical University
 
-2017 - **Rocket Systems and Astronautics** (Master’s degree)
+- 2017 - **Rocket Systems and Astronautics** (Master’s degree)
 
-Baltic State Technical University
+  Baltic State Technical University
 
-2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)
+- 2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)
 
-[The Rolling Scopes School](https://rs.school/)
+  [The Rolling Scopes School](https://rs.school/)
 
 ### **English level:**
 
