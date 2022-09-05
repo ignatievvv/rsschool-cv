@@ -8,34 +8,24 @@
 
 ---
 
-**Country:** Russian Federation
-
-**City:** St. Petersburg
-
-**Phone:** +7 999 536 1417
-
-**Telegram:** @ram_entreya
-
-**E-mail:** vladimir-ignatiev@hotmail.com
-
-**GitHub:** [ignatievvv](https://github.com/ignatievvv)
+- **Country:** Russian Federation
+- **City:** St. Petersburg
+- **Phone:** +7 999 536 1417
+- **Telegram:** @ram_entreya
+- **E-mail:** vladimir-ignatiev@hotmail.com
+- **GitHub:** [ignatievvv](https://github.com/ignatievvv)
 
 ---
 
-Beginner specialist in programming / IT-industry.
-
+Beginner specialist in programming / IT-industry.  
 Ready for fast studying and learning new skills.
-
-Solving tasks creatively. Finding non-standart solutions.
-Extremely attentive to details.
 
 ### **Technical skills:**
 
 ---
 
-- JavaScript
-- TypeScript
-- HTML/CSS
+- JavaScript / TypeScript
+- HTML / CSS / SASS / SCSS
 - VS Code
 - Git
 - Github
@@ -50,17 +40,17 @@ Extremely attentive to details.
 
 ---
 
-2015 - **Rocket Systems and Astronautics** (Bachelor degree)
+- 2015 - **Rocket Systems and Astronautics** (Bachelor degree)  
+  Omsk State Technical University
 
-Omsk State Technical University
+- 2017 - **Rocket Systems and Astronautics** (Master’s degree)  
+  Baltic State Technical University
 
-2017 - **Rocket Systems and Astronautics** (Master’s degree)
+- 2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)  
+  [The Rolling Scopes School](https://rs.school/)
 
-Baltic State Technical University
-
-2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)
-
-[The Rolling Scopes School](https://rs.school/)
+- 2022 - [**JAVASCRIPT/FRONT-END PRE-SCHOOL 2022Q2 (JAVASCRIPT)**](https://app.rs.school/certificate/3txuu2l7)  
+  [The Rolling Scopes School](https://rs.school/)
 
 ### **English level:**
 
