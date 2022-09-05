@@ -49,7 +49,7 @@ Ready for fast studying and learning new skills.
 - 2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)  
   [The Rolling Scopes School](https://rs.school/)
 
-- 2022 - [**JAVASCRIPT/FRONT-END PRE-SCHOOL 2022Q2 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)  
+- 2022 - [**JAVASCRIPT/FRONT-END PRE-SCHOOL 2022Q2 (JAVASCRIPT)**](https://app.rs.school/certificate/3txuu2l7)  
   [The Rolling Scopes School](https://rs.school/)
 
 ### **English level:**
