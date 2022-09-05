@@ -18,17 +18,14 @@
 ---
 
 Beginner specialist in programming / IT-industry.  
-Ready for fast studying and learning new skills.  
-Solving tasks creatively. Finding non-standart solutions.
-Extremely attentive to details.
+Ready for fast studying and learning new skills.
 
 ### **Technical skills:**
 
 ---
 
-- JavaScript
-- TypeScript
-- HTML/CSS
+- JavaScript / TypeScript
+- HTML / CSS / SASS / SCSS
 - VS Code
 - Git
 - Github
@@ -50,6 +47,9 @@ Extremely attentive to details.
   Baltic State Technical University
 
 - 2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)  
+  [The Rolling Scopes School](https://rs.school/)
+
+- 2022 - [**JAVASCRIPT/FRONT-END PRE-SCHOOL 2022Q2 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)  
   [The Rolling Scopes School](https://rs.school/)
 
 ### **English level:**
