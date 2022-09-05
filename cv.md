@@ -17,10 +17,8 @@
 
 ---
 
-Beginner specialist in programming / IT-industry.
-
-Ready for fast studying and learning new skills.
-
+Beginner specialist in programming / IT-industry.  
+Ready for fast studying and learning new skills.  
 Solving tasks creatively. Finding non-standart solutions.
 Extremely attentive to details.
 
@@ -45,16 +43,13 @@ Extremely attentive to details.
 
 ---
 
-- 2015 - **Rocket Systems and Astronautics** (Bachelor degree)
-
+- 2015 - **Rocket Systems and Astronautics** (Bachelor degree)  
   Omsk State Technical University
 
-- 2017 - **Rocket Systems and Astronautics** (Master’s degree)
-
+- 2017 - **Rocket Systems and Astronautics** (Master’s degree)  
   Baltic State Technical University
 
-- 2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)
-
+- 2021 - [**JAVASCRIPT/FRONT-END 2021Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/ntejfkus)  
   [The Rolling Scopes School](https://rs.school/)
 
 ### **English level:**
